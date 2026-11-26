@@ -3,7 +3,7 @@
 # Networks: 1270
 #
 # Run on the router:
-#   /tool fetch url="https://raw.githubusercontent.com/USER/REPO/main/vn.rsc" mode=https dst-path=vn.rsc
+#   /tool fetch url="https://raw.githubusercontent.com/ntdnetvas-2026/IPv4_VN/main/vn.rsc" mode=https dst-path=vn.rsc
 #   /import file-name=vn.rsc
 #
 # The import loads every network into a temporary list (IP-VN-new), then syncs the list IP-VN:
